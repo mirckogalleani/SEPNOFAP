@@ -2,6 +2,7 @@
 
 module.exports = function IndexModel() {
     return {
-        name: 'index'
+        name: 'index',
+        clase: 'tu mama en bolas'
     };
 };
